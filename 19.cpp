@@ -1,4 +1,4 @@
-#include<iostrean>
+#include<iostream>
 using namespace std;
 int main(){
 int a=2,b=3,c=4;
@@ -13,3 +13,4 @@ else {cout<<"c is largest";}
 
 
 return 0;}
+
