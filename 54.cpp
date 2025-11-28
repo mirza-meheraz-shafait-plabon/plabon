@@ -57,11 +57,8 @@ int main() {
     QuadraticSolver example1(1.0, 5.0, 6.0);
     example1.findRoots();
 
-    QuadraticSolver example2(1.0, -4.0, 4.0);
-    example2.findRoots();
-
-    QuadraticSolver example3(1.0, 1.0, 1.0);
-    example3.findRoots();
+    
 
     return 0;
 }
+
